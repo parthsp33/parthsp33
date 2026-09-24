@@ -86,8 +86,6 @@ I enjoy transforming ideas and designs into **scalable, maintainable, and produc
 ---
 
 
----
-
 # 💼 Experience
 
 ### 🏢 E2Logy
