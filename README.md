@@ -1,84 +1,32 @@
-# Hi, I'm Parth Prajapati 👋
+<div align="center">
 
-### Mobile Application Developer | Flutter | React Native | iOS
+# 👋 Hi, I'm Parth Prajapati
 
-Software Engineer with 4.6+ years of experience building cross-platform
-mobile applications for Android and iOS.
+### 🚀 Software Engineer | Mobile Application Developer
 
-## 🚀 About Me
+**Flutter • React Native • iOS • Dart • TypeScript**
 
-- 📱 Mobile Application Developer
-- 💙 Flutter & Dart
-- ⚛️ React Native & Expo
-- 🍎 iOS / Swift / SwiftUI
-- 🟦 JavaScript & TypeScript
-- 🔥 Firebase & REST APIs
-- 🏗️ Clean Architecture & MVVM
-- 🔄 BLoC, GetX, Zustand & TanStack Query
-- 🚀 CI/CD & App Deployment
+Building scalable, high-performance mobile applications for  
+**Android & iOS** 📱
 
-## 🛠️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge)](https://parth-prajapati-resume.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-prajapati-7174b2144/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bantiprajapati33@gmail.com)
 
-**Mobile**
-- Flutter
-- React Native
-- Expo
-- iOS
-- Swift
-- SwiftUI
+</div>
 
-**Languages**
-- Dart
-- TypeScript
-- JavaScript
-- Swift
-- SQL
+---
 
-**Architecture & State Management**
-- BLoC / Cubit
-- GetX
-- Zustand
-- TanStack Query
-- Clean Architecture
-- MVVM
-- Dependency Injection
+## 👨‍💻 About Me
 
-**Backend & Services**
-- REST APIs
-- Firebase
-- Axios
-- JSON
-- API Integration
+I'm a **Software Engineer with 4.6+ years of experience** in mobile application development.
 
-**Tools**
-- Git
-- GitHub
-- CI/CD
-- Xcode
-- Android Studio
-- Figma
+I specialize in building **cross-platform Android & iOS applications** using Flutter and React Native, with a strong focus on clean architecture, performance, reusable components, and scalable application development.
 
-## 📱 Featured Projects
-
-### 🛒 Grocery / eCommerce App
-Flutter-based grocery platform with:
-- User App
-- Vendor App
-- Driver App
-- Product management
-- Order management
-- Delivery workflow
-- REST API integration
-
-### 🧾 POS Application
-React Native + Expo application for retail/POS workflows.
-
-### 🏠 Property Booking App
-Mobile platform for tenants and landlords with property listing,
-booking, and management functionality.
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Parth Prajapati](YOUR_LINKEDIN_URL)
-- 🌐 Portfolio: https://parth-prajapati-resume.web.app/
-- 📧 Email: bantiprajapati33@gmail.com
+```text
+📱 Mobile Development     → Flutter | React Native | iOS
+💻 Languages              → Dart | TypeScript | JavaScript | Swift
+🏗️ Architecture           → Clean Architecture | MVVM | MVC | DI
+🔄 State Management       → BLoC | Cubit | GetX | Zustand | TanStack Query
+🌐 APIs & Services        → REST APIs | Firebase | Axios | JSON
+🚀 Development            → Git | GitHub | CI/CD | App Deployment
